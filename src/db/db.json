@@ -1,0 +1,34 @@
+{
+  "devices": [
+    {
+      "label": "One Plus 8",
+      "os": "android",
+      "price": 750,
+      "rate": 3,
+      "memory": 7400,
+      "desc": "One Plus 5 is a flagship phone...",
+      "id": 2
+    },
+    {
+      "label": "iPhone x",
+      "price": 800,
+      "os": "ios",
+      "id": 26
+    },
+    {
+      "label": "Samsung Galaxy S22",
+      "price": 1000,
+      "os": "android",
+      "id": 27
+    },
+    {
+      "label": "iPad",
+      "price": 800,
+      "os": "others",
+      "id": 28
+    }
+  ],
+  "login": {
+    "token": "efoiwejo32r32-fake-token"
+  }
+}
